@@ -1,0 +1,7 @@
+/*
+Color(0xffFEF6DB)
+Color(0xff46322B)
+Color(0xffEF9235)
+Color(0xff558B37)
+Color(0xff79359F)
+Color(0xff50ADC7)*/
