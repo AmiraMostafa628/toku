@@ -23,7 +23,7 @@ class PhrasesScreen extends StatelessWidget {
     Model(
       sound: 'where_are_you_going.wav',
       jpName: 'Doko ni iku no',
-      enName: 'Where are you going',
+      enName: 'Where are you going ?',
     ),
     Model(
       sound: 'what_is_your_name.wav',
