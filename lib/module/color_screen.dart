@@ -41,6 +41,18 @@ class ColorsScreen extends StatelessWidget {
       enName: 'red',
       image: 'assets/images/colors/color_red.png',
     ),
+    Model(
+      sound: 'white.wav',
+      jpName: 'Shiroi',
+      enName: 'white',
+      image: 'assets/images/colors/color_white.png',
+    ),
+    Model(
+      sound: 'yellow.wav',
+      jpName: 'kiiro',
+      enName: 'yellow',
+      image: 'assets/images/colors/yellow.png',
+    ),
   ];
   @override
   Widget build(BuildContext context) {
